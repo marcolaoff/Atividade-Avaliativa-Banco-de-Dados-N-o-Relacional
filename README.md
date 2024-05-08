@@ -41,6 +41,43 @@ Com base nas consultas realizadas, identificamos os 10 produtos mais vendidos no
 9. Galaxy A34 128gb – 88 vendas
 10. Iphone 11 128gb – 88 vendas
 
+**Produtos Mais Vendidos por Localização:**
+### Monte Sião:
+1. Redmi Note 11s 128gb – Com um total de 85 vendas
+2. Xiaomi 14 256gb – Com um Total de 64 Vendas
+3. Smart TV Led 60 4k Bluetooth – Com um total de 55 vendas
+4. Iphone 11 128gb – Com um total de 53 vendas
+5. Galaxy S22 Ultra 512gb – Com um total de 47 vendas
+6. Redmi Note 12 128gb – Com um total de 45 vendas
+7. Galaxy S22 128gb – Com um total de 42 vendas
+8. Iphone 11 256gb – Com um total de 42 vendas
+9. Smart TV Crystal 43 4K – Com um total de 38 vendas 
+10. Galaxy S22 256gb – Com um total de 38 vendas
+
+### Águas de Lindoia:
+1. Smart TV Crystal 43 4K – Com um total de 45 endas
+2. Redmi Note 12 128gb – Com um total de 35 vendas
+3. Smart TV LED 60 4k Bluetooth - Com um total de 34 vendas
+4. Xiaomi 14 256gb – Com um total de 33 vendas
+5. Redmi Note 11s 128gb – Com um total de 31 vendas 
+6. Iphone 14 256gb – Com um total de 30 vendas 
+7. Redmi Note 11s 256gb – Com um total de 30 vendas 
+8. Redmi Note 13 256gb – Com um total de 28 vendas
+9. Redmi 13C 128 gb – Com um total de 28 vendas 
+10. Iphone 12 128gb – Com um total de 25 vendas
+
+### Socorro:
+1. Redmi Note 12 128gb – Com um total de 45 vendas
+2. Galaxy A34 128gb – Com um total de 43 vendas
+3. Iphone 11 256gb – Com um total de 35 vendas
+4. Galaxy A34 256gb – Com um total de 33 vendas
+5. Redmi Note 12 256gb – Com um total de 33 vendas
+6. Redmi Note 11s 256gb – Com um total de 33 vendas
+7. Iphone 14 512gb – Com um total de 30 vendas
+8. Redmi Note 11s 128gb – Com um total de 28 vendas
+9. Redmi Note 13 256gb – Com um total de 28 vendas
+10. Redmi 13C 128 gb – Com um total de 28 vendas
+
 ## Como Contribuir
 Sinta-se à vontade para contribuir com este projeto, fornecendo feedback, sugestões ou colaborando no desenvolvimento de novos recursos.
 
